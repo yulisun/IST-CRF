@@ -24,15 +24,14 @@ Please refer to the paper for details. You are more than welcome to use the code
 
 If you use this code for your research, please cite our paper. Thank you!
 
-@article{SUN2022108845,
-title = {Iterative Structure Transformation and Conditional Random Field based Method for Unsupervised Multimodal Change Detection},
-journal = {Pattern Recognition},
-pages = {108845},
-year = {2022},
-issn = {0031-3203},
-doi = {https://doi.org/10.1016/j.patcog.2022.108845},
-url = {https://www.sciencedirect.com/science/article/pii/S0031320322003260}
-}
+@article{SUN2022108845,  
+title = {Iterative Structure Transformation and Conditional Random Field based Method for Unsupervised Multimodal Change Detection},  
+journal = {Pattern Recognition},  
+pages = {108845},  
+year = {2022},  
+issn = {0031-3203},  
+doi = {https://doi.org/10.1016/j.patcog.2022.108845},  
+url = {https://www.sciencedirect.com/science/article/pii/S0031320322003260}}  
 
 ## Future work
 
