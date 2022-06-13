@@ -3,6 +3,7 @@ Iterative Structure Transformation and Conditional Random Field based Method for
 
 ## Introduction
 MATLAB Code: IST-CRF - 2022
+
 This is a test program for the Iterative Structure Transformation and Conditional Random Field based Method (IST-CRF) for multimodal change detection problem.
 
 IST-CRF first constructs graphs to represent the structures of the images, and transforms the heterogeneous images to the same differential domain by using graph based forward and backward structure transformations. Then, the change vectors are calculated to distinguish the changed and unchanged areas. Finally, in order to classify the change vectors and compute the binary change map, a CRF model is designed to fully explore the spectral-spatial information, which incorporates the change information, local spatially-adjacent neighbor information, and global spectrally-similar neighbor information with a random field framework.
