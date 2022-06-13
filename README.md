@@ -39,4 +39,4 @@ The parameters setting of CRF model and multi-scale fusion strategy, which would
 
 ## Q & A
 
-If you have any queries, please do not hesitate to contact me (yulisun@mail.ustc.edu.cn ).
+If you have any queries, please do not hesitate to contact me (yulisun@mail.ustc.edu.cn).
