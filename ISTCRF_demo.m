@@ -15,9 +15,8 @@ https://doi.org/10.1016/j.patcog.2022.108845
 clc
 clear;
 close all
-addpath('auxi_funcs')
+addpath(genpath(pwd))
 %% load dataset
-addpath('datasets')
 % #2-Img7, #3-Img17, and #5-Img5 can be found at Professor Max Mignotte's webpage (http://www-labs.iro.umontreal.ca/~mignotte/) and they are associated with this paper https://doi.org/10.1109/TGRS.2020.2986239.
 % #6-California is download from Dr. Luigi Tommaso Luppino's webpage (https://sites.google.com/view/luppino/data) and it was downsampled to 875*500 as shown in our paper.
 % For other datasets, we recommend a similar pre-processing as in "Load_dataset"
